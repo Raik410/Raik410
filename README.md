@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Yandex.Practicum**
 
-- 💬 Ask me about 
+- 💬 Ask me about ...
 
 - 📫 How to reach me **nikita.zarutskiy@yandex.ru**
 
