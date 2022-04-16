@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **nikita.zarutskiy@yandex.ru**
 
-- ⚡ Fun fact **I love from software**
+- ⚡ Fun fact 
 
 <h3 align="left">Connect with me:</h3>
 
