@@ -11,6 +11,8 @@
 
 - 🥑 English B1 (intermediate)
 
+- 💻 В основном пользуюсь gitlab
+
 <h3 align="left">Контакты:</h3>
 
 <a href="https://vk.com/raiki410" target="blank"><img align="center" src="https://www.svgrepo.com/show/349554/vk.svg" alt="raiki410" height="30" width="40" /></a>
