@@ -27,6 +27,8 @@
 
 [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Raik410&theme=halloween)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Raik410)](https://leetcode.com/Raik410)
+
 <!--
 **Raik410/Raik410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
