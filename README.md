@@ -1,55 +1,76 @@
-<h1 align="center">Всем привет :) Меня зовут Никита</h1>
-<h3 align="center">Front-end разработчик</h3>
-
--   📫 Почта: **nikita.zarutskiy@yandex.ru**
-
--   🌱 Front-end разработчик в компании Совкомбанк Технологии
-
--   ⚡ Окончил School 21
-
--   🗽 В учебных репозиториях проекты со School 21 (C/C++, Postgres SQL, Docker, CI/CD, DevOps) 
-
--   🥑 English B1 (intermediate)
-
--   💻 В основном пользуюсь gitlab, там мои рабочие и учебные проекты
-
-<h3 align="center">Контакты:</h3>
+<h1 align="center">Привет, меня зовут Никита <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 <p align="center">
-<a href="https://vk.com/raiki410" target="blank"><img align="center" src="https://www.svgrepo.com/show/349554/vk.svg" alt="raiki410" height="30" width="40" /></a>
-<a href="https://t.me/Raiki410" target="blank"><img align="center" src="https://www.svgrepo.com/show/354443/telegram.svg" alt="raiki410" height="30" width="40" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2892DF&center=true&vCenter=true&width=435&lines=Front-end+Developer;" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://vk.com/raiki410" target="_blank">
+    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK">
+  </a>
+  <a href="https://t.me/Raiki410" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="mailto:nikita.zarutskiy@yandex.ru">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-<h3 align="center">Мой стэк:</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<br/>
+
+## 👨‍💻 Обо мне
+
+- 🏢 **Работа:** Front-end разработчик с **3 годами опыта**.
+- 🎓 **Образование:** Выпускник **School 21** (Сбер).
+- 🇬🇧 **Языки:** English B1 (Intermediate).
 
 ---
 
-<p align="center">
+## 🛠 Технический стек
+
+<div align="center">
+
+### Core & Languages
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+
+### Frameworks & Libraries
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
+
+### State Management
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white" />
+
+### Styling
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+
+### Build Tools & DevOps
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
+<img src="https://img.shields.io/badge/Rollup-EC4A3F?style=for-the-badge&logo=rollup.js&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+
+</div>
+
+---
+
+## 📈 Статистика
+
+<div align="center">
   <a href="https://github.com/ignacio-cuadra/github-readme-codewars">
-    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=Raik410&theme=halloween" alt="Github Readme Codewars">
+    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=Raik410&theme=dark&font=Fira+Code" alt="Codewars Stats" width="400">
   </a>
-</p>
-
-<p align="center">
+  <br/><br/>
   <a href="https://leetcode.com/Raik410">
-    <img src="https://leetcard.jacoblin.cool/Raik410" alt="Leetcode Stats">
+    <img src="https://leetcard.jacoblin.cool/Raik410?theme=dark&font=Fira%20Code&ext=heatmap" alt="Leetcode Stats" width="400">
   </a>
-</p>
-
-
-<!--
-**Raik410/Raik410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
